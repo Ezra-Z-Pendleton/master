@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
-<header><b>My Blog</b></header>
-
+<header></header>
+<h1>My Blog</h1>
     <a href="./My Blog">Home</a>
     <a href="about.html">About</a>
     <a href="Contact.html">Contact</a>
     
-
-<h1>Like food? Heres my top 3!</h1>
-    <body>
+<body>
+    <h2>Like food? Heres my top 3!</h2>
+    
         <ol>
             <li>Chicken tenders</li>
             <li>Ribs at a BBQ</li>
