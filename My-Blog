@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
 <header><b>My Blog</b></header>
-<nav>
-    <ul>
-        <li><a href="./My Blog">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="Contact.html">Contact</a></li>
-    </ul>
-</nav>
+
+    <a href="./My Blog">Home</a>
+    <a href="about.html">About</a>
+    <a href="Contact.html">Contact</a>
+    
+
 <h1>Like food? Heres my top 3!</h1>
     <body>
         <ol>
